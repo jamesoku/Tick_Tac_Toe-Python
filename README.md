@@ -2,7 +2,7 @@
 
 I made a tick-tack-toe game. It is played by asking the user for they want the character to be and fills in the either X or O depending on their turn.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VSdSbFcnFKo)
 
 # Development Environment
 
